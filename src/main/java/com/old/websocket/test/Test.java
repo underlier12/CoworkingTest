@@ -12,6 +12,6 @@ public class Test {
 	
 	// method B
 	public void test2() {
-		//TODO
+		System.out.println("Method B");
 	}
 }
