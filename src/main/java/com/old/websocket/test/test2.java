@@ -5,6 +5,7 @@ public class test2 {
 		System.out.println("he");
 		System.out.println("gogogogo");
 		System.out.println("gogogo different");
+		System.out.println("let's go 1");
 	}
 	
 
