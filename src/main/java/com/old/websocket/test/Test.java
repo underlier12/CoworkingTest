@@ -17,5 +17,10 @@ public class Test {
 		System.out.println("Method B");
 	}
 	
+	// method C
+	public void test3() {
+		System.out.println("Method C");
+	}
+	
 	// Test Class Done - develop branch
 }
